@@ -13,7 +13,7 @@ Add customizable page numbers to an existing PDF with Typst.
 
 ## Preview
 
-![Preview](assets/preview.png)
+![Preview](assets/preview-numbered.png)
 
 ## Requirements
 
