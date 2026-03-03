@@ -1,0 +1,9 @@
+pdf: main.pdf
+total_pages: 18
+intervals: "1-4,5-7"
+min_number: 1
+max_number: 18
+label_template: "{n} of {p}"
+pill_color: "#ffffff"
+page_width_pt: 960
+page_height_pt: 540

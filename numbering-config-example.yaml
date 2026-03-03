@@ -1,0 +1,9 @@
+pdf: main.pdf
+total_pages: 18
+intervals: "2-13,15-17"
+min_number: 2
+max_number: 17
+label_template: "{n}/{p}"
+pill_color: "#bcebed"
+page_width_pt: 960
+page_height_pt: 540
